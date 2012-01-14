@@ -1,0 +1,1 @@
+﻿package com{	import flash.display.MovieClip;	import flash.display.Loader;	public class videoLoader extends Loader	{		public var idd:Number;		public function videoLoader(valor)		{			idd = valor;		}	}}
